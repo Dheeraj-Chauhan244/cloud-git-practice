@@ -1,1 +1,1 @@
-"new file " 
+"how to add commit in git" 
